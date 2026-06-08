@@ -1266,6 +1266,12 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
+#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="https://iyadtv.pages.dev/images/hbo_family_121.png",HBO FAMILY 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
+
 #EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="https://iyadtv.pages.dev/images/hbo_plus_125.png" ,HBO +
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1280,7 +1286,13 @@ https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://nog-live1-ott.izzigo.tv/15/out/u/dash/HBO-POP-HD/default.mpd
 
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="https://iyadtv.pages.dev/images/hbo_xtreme_127.png" ,HBO EXTREME
+#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="https://iyadtv.pages.dev/images/hbo_signature_123.png",HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd
+
+#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="https://iyadtv.pages.dev/images/hbo_xtreme_127.png" ,HBO XTREME
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
@@ -1467,99 +1479,933 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+**********IZZY**********
+
+#EXTINF:-1 group-logo="https://logos.textgiraffe.com/logos/logo-name/Izzy-designstyle-summer-m.png"
+
+#EXTINF:-1 tvg-id="" group-title="IZZY" tvg-logo="", ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN-HD-H265/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",ESPN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live1-ott.izzigo.tv/7/out/u/dash/ESPN-2-HD-H265/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",ESPN 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN-3-HD-H265/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN-4-HD-H265/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5e43e324b6cd33b92c9ac8c398bb3c8:c8c7f804f0ecfc8fc0d53dff48d7ece1
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-HD/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HBO2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-2-HD/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HBO +
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-PLUS-HD/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HBO FAMILY 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-FAMILY-HD/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", HBO MUNDI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba4052ca5eb6f8ff6b98d47d098b2dec:bb3e4bfa1821d2bdc25c9a0970e4e3b8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-MUNDI-HD/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HBO POP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-POP-HD/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5782156290f035ef28ae66cca252eedd:10d8bb6d9f9852747298487ab3c4afa3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-SIGNATURE-HD/default.mpd
 
-
-#EXTINF:-1 group-title="IYADTV" tvg-id="" tvg-logo="" , 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HBO XTREME 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TVE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9c6bff9b7141a1e289061a8334c34cb:c644f57b253c9a81d723fe252c53079a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/TVE-SD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",STAR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e0830fe96416ef7b9a523a825fe4e31d:5d67881a7ecc475a0677efa81cdf0027
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/STAR-HD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",24 HOURS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83b70dd2efb59c4afc82f6291057560d:e6ee9459151ac38d37cfc3ca1a424440
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/24-HRS-SD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",ANTENNA3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bcfe92161ae5c20d6ffec80cbad9f74b:6e74e556df5223c5a5102d4846b5670a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/ANTENA-3-HD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", HISTORY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1264e3667616b52060028be25404d6a4:470720a6152157a5d3c5de89de1b909c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HISTORY 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14402e6154aafa2b79408ea5c1651b1c:6a38619d21191891d09b357a6b1cabd1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/13/out/u/dash/HISTORY-2-HD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",UNIVERSAL CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=840bcd9ffdd5721c40b0ade4d9b68246:d19d330de1f428d1902bc1629a65c0bf
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live2-ott.izzigo.tv/14/out/u/dash/UNIVERSAL-CHANNEL-HD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", UNIVERSAL CINEMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a9e6477651b3b47f3a2b727d562835:1b87070d9fad5dee0a35ff014a2063a7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", UNIVERSAL CRIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a908a5d38a9c496ced27faa6bf5ff8e:85a5835a92bd7f87faf5ffbcb8814d33
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-CRIME-HD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", UNIVERSAL PREMIERE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ccd5dd0c86a40ed719b83e1801bcd88:6d5e62525837ba9b7e09cfb8716116ba
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-PREMIERE-HD/default.mpd
 
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", UNIVERSAL REALITY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02a02bce7a3c518386e0da4e5ec0188d:071c7cc4c2f33e1e2d3fa3807d1bbbcc
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNIVERSAL-REALITY-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",STUDIO UNIVERSAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77b7711693a9f32c0bd81ef8782f716b:0802df5ea0615ca2638b3b38f9ab3926
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/11/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",COMEDY CENTRAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a61b7a7912064acc62a06a6ae22ac5c:5bfb374d644703550f0637532bca0491
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/COMEDY-CENTRAL-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", DISCOVERY HOME AND HEALTH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0765f676e30b1b98386230b52eed3518:326266d16296e3bbe1dfcc274853dadb
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/DISCOVERY-HOME-AND-HEALTH-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", DISCOVERY TURBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4bae4a7baa977c5b1a253adc589b6a7:ed5aa984b371395293b2c2a27125509c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",DISCOVERY WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff9f289f4bad2b970deb5b9d56acb84a:8f920a61965245ffac8bb0c698845ff5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-WORLD-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", DISCOVERY SCIENCE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6a1dfce06caf463d29b91fc890baad1:4ce50c2ee03a4fbec5ddbf57bc8e6c8b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", DISCOVERY ID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb1b6838a477c3e4394534a93ddf5a0f:4b2f779b434b5ab8122da25294d3d7ea
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/DISCOVERY-ID-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", DISCOVERY THEATER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6fa84513dfc29251a24917125905d8b:54124304e26cb27f4d0f51b126829e30
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", DISCOVERY KIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9201c07931b74c37c4e30a9e96b64c30:8e1ce4f1b1185f64e42f9974cbad1442
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live2-ott.izzigo.tv/11/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",E ENTERTAINMENT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66a5d89630a3e2263f63f42221a4f3e8:362b8d4aa289042e473ed064a722611b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/E-Entertainment-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",FX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ce1ec3e2402a170cbe13b79ce9bb30f:82fdcfde32cc02673547e58b50e2b5ae
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/FX-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HOLA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3324372c149efbd4755e94a5989f4eef:8ed2cae763c527146b490acb667e3221
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/HOLA-TV-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",FOOD NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=346785646e762ad867fb22f6fdaacc68:777670f96243bb2be7811505fba060f8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/11/out/u/dash/FOOD-NET-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TLC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42ca82249b49382dd7156dd18a292e8c:7c26bb855d762211182e7eac31376aee
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/TLC-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",DISTRITO COMEDIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e69f7cb969df2eef1b60ddea0458bfef:12ec40e04cf8c533cf306321052726a8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",GOURMET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02eabf0cfdc063542f9983dbb2ee66d4:53d20cd604a274dd6f35fd17b9ea2e80
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/GOURMET-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85d06ba283f3b18bb14f9f8d59b8fb82:6659fed472544289adee986c1d33fa79
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/CARTOON-NETWORK-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CARTOONITO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc370ab08218da5dad9b9644f1df57b:1ddc60916c0efd29990cb1d319e7710a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/CARTOONITO-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", NICKELODEON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294848a1c20273b5546c204b117fd7fe:47b4a3e3b2d5bbd54143a6af43268bbd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/NICK-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",NICK JR.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ff80f6edca24a644b8f5b4532e908a4:273d66feb7edc254d70d73aecddd31f8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/NICK-JR-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",DISNEY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f047ea1abdca6f03117454c4de0b6d5b:b038c8c8f114c568956d428e80ae38d7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/DISNEY-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",DISNEY JR.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41d2ae9b0d875ba12e97c5a3f3eec82:3a443892e1ad1158c6fd2bf9c9146eb6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/DISNEY-JR-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a255e1384db3e9ce7e0349e8aa9b9f77:404cc4fb45f82c9a7dffd3d2496cca20
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/DREAM-WORKS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",STAR CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b482bd74b9fccb810bf94a3b3732c0f9:9207af2617ac4df3ee6860719a53eb8b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/STAR-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",BIT ME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/BIT-ME-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TNT NOVELAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3f9a0375499c62b6f5ff778dc46bb43:c0d7bd6d44c2bd79e46e8dc22e53cceb
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/11/out/u/dash/TNT-NOVELAS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SKY ONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96f177548046a9f56bbb39a900a82ddd:96aa836072fd84c9a8e6219652330272
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/11/out/u/dash/SKY-ONE-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",LIFETIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6561801b75ab25819fc7ede365375df7:3555b344c54204d5f02a753d354d2f8c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/LIFETIME-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac11ba753fcabc56b965e1801ff8df19:64a7852cc7737515ac71c017f03fdd32
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/MTV-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",AANDE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=baef272fb12886463f3b299ac6b4ffa6:bc285ae166674480abb4966f4a306327
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/AANDE-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",BANDAMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d014b4c7f22d490f56e2d7d3fe125c15:69864ad4b98d06e9fcf2430ed67b6c33
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/BANDAMAX-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",GOLF CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd45f6a37a3887044bac88a63e55b70e:2dff34fba01dd53d0a37dc913bb9ba51
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/GOLF-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",REAL MADRID
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77e93f69c2d4c23e2cf8dc9E892f4ac7:71a786d7774d6df4487494145db485a4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/REAL-MADRID-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CNN EN ESPAÑOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3a704793810e4848980bf8ebe11ba72:8a761310bfa7436136729b23ea590185
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CNN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4514db2f0b4864f56dbf8b14bcdd4022:6cc79244441f942839b867572702364e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/CNN-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CNN INTERNATIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3b827c857110fd3de6161416854eabd:3ed74ba1f566d0217dc1a59ba9d61918
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/CNNI-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HLN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daf03fe2327a7ba87a60b54ac531bc75:040019dfecbe32c0532bb2231665ec33
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/HLN-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",FOX NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa611985e0c890fdf50d5c6ed88ad0c0:61dc9d01e315bf46ee43bc9fe882ebd8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/FOX-NEWS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",EURO NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b948db41702afa5E6646243e57b43def:168d105c8ac7654667c37b576d0bc7c3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/EURONEWS-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",AL JAZEERA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba7146a3064f23e9f34a76096509d664:604e9a361c3f7033d930c34ff4d3d830
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/AL-JAZEERA-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",RAI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65b6395665d92c16e12f202c9480c425:eda358f71a474029f1580327ae6766e1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/RAI-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CANAL IZZI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f37a2c616a17358d8afda0326fbf7151:bdaad10dbfe10b082ee61bce67787e27
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/CANAL-IZZI-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",DOG TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d2063b495202a5a78a2b7df6ba1d6d1:9b0e8c590f387c6b45ffef5827d9d90b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/DOGTV-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",FORO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea39b9575f51b840a58bda829f20f38d:9c200a2b120d45e60af506be1d7ad932
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/FORO-TV-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",MILENIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2bffcbe59cee9f1021da53b96dc6e2c:8cbdc79e0a64dd8d1c3b7ea85830bd10
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/MILENIO-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TELEFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=024bb38ecf7831a54d6ff8eb9d9c5E6a:031599eff8092a9a9428363fb4356d53
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/TELEFE-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TELEFORMULA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c49501c4b1cefd7b0a92935ce1b20bE8:1664d2cc6280dd0f268d2d3f28c76665
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/TELEFORMULA-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TV5 MONDE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb80d09d70628c20bb91cf65a195e1f9:6115b75f155d1a7a686a525fbd6ca2f6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/TV5-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SKY SPORTS LALIGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SKY SPORTS BUNDESLIGA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-SPORTS-24-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SKY SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SKY SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99909032389c6ee41c3d2f3ec829f804:41fbc575c8ef1cdac1dca990c9a0df9d
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/SKY-SPORTS-21-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TNT MEXICO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37971d47c9e64d7584058efcfdc424b3:9944ecda48ef3d6325ccf89ab32bef83
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/TNT-HD-H265/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SKY SPORTS F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1-HD-H265/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",LAS ESTRELLAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62cc24eaedef1ab322a4d52fd6bf29ad:3f80b04b3e2bf3d8543956882da9dd00
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/CANAL-2-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", TELENOVELAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=361d47939a32a35422d13728b7089728:1d26ccbbc3a3b1f3e3f7e4850a54c6f2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/TLNOVELAS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SPACE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/11/out/u/dash/SPACE-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SKY SPORTS 16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95b52d16d344af539ce9c2c9ff95571a:5f035d9c4a178221f89d2439426b2e9a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/SKY-SPORTS-16-HD-H265/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HOME AND GARDEN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85c7c015f980e9acc94f41b9c7e8822f:e0a810783bd43824ddd691f97c95d0fd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/DISCOVERY-HOME-AND-GARDEN-HD-H265/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",ANIMAL PLANET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecc518be0092c0ed80d8b1eeb243c5b6:7292a98762ff0ce0cf7ab33158f95ecf
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/ANIMAL-PLANET-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", NATIONAL GEOGRAPHY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=157c0fb2bfdc323521d52ab43b7fa131:6c4af37b6abc72cbcd91aa7716968336
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/NAT-GEO-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",LAS ESTRELLAS 1HRS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25d1fc119dceece6247642dbff5e25b8:e4fc76212298ff4337f05ccd8c2036e5
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/LAS-ESTRELLAS-1HRS-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",LAS ESTRELLAS 2 HRS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=820ee7b6e7e489c285a63a9a39249a31:3bdc524168044491d6f2e51b270f4aa1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/LAS-ESTRELLAS-2HRS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",NFL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b12b76d776853a4f015786aeb7686d38:d695178f4b2be4c2cef535cb4ca557ff
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/6/out/u/dash/NFL-HD-H265/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",NBA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08f8fb6d69482c151f73dd8461dca352:8aea016cd974cb95e8bf030b196f4818
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/7/out/u/dash/NBA-HD-H265/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",PX SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c53466401bf1c02903470cf41d01b6e:90898b3079182c414ecc104ff53dc9b7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/PX-SPORTS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HI SPORTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2966ad533e52a19c3ded1c7b9e40370:2e0bb20e3edb3ce7fc0d616b3ff28748
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/HI-SPORTS-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TOONCAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c9418c5729e8224f99940cf5b6c0c45:336cd7efd1d7a1829d0f3d22c2c8dc0a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/TOONCAST-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",MULTIMEDIOS RDF
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96ce45fa9e1b72ef49b8f5784b21a001:bf9797535e629804cf48f8b6530582c1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/MULTIMEDIOS-RDF-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",INGENIO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba58fdfd114d74e2a22225a27aaf144f:7c622cc288ca7d1f8fb7496135b67e09
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/INGENIO-TV-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SONY MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6c0b2a5a6d7aa72f6f76f3607364cea:29772b450393146e8d1b56107f5163a2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/SONY-MOVIES-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",WARNER TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TV GLOBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29852829d373dfb35df80c5fa1d9bff0:ceb31ec6a6d90090f490b54f524a27b4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/TV-GLOBO-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",FILM AND ARTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31107b01ab02c96457fe0a000f3e0569:c024c45d71db474d2fa121729e596ca8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/FILM-AND-ARTS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",ANDRENALINA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6de0a66b528401c0378c559712f74643:f9a240cea75f585add8405375ad1d787
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/11/out/u/dash/ADRENALINA-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97cfeda35c2f42d6c2be729ea2945b12:59c1f3c384bd0a25e817539d5fe6e24b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/AMC-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",APRENDE MAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=685296908106c98b843ec0ecab5e53bd:feda5f6bdf622bf52e3991cfcf47f842
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/APRENDE-MAS-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",AZTECA 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=158b196625b3fa3a6cbd45d081d28995:b955044f81ed40faec97bee0d7a20aea
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/AZTECA-1-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CANAL 6 PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44cc7d4a31a3e696d35f6b6ed0561be1:57e157bcfd59651e649911f513965680
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/13/out/u/dash/CANAL-6-PLUS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CANAL 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bb910a4217a1af19b803e7f120796f9:8d3d83fadfc769674b9c7102109fc466
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/11/out/u/dash/CANAL-9-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CANAL 14
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d07062d0e56220efe394a1640f586162:b9457744e76306cfdbf58a886b45c1d7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/13/out/u/dash/CANAL-14-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CANAL 22
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd02aab23d7af5a543381c7108de535e:2573aca79c477f674a5bbc22ad735c7b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/CANAL-22-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", EXCELSIOR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30a744a8c9c6fa00f9f05c83c27e4b4d:402d81ac9059cfdeb119b452bafb8882
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/11/out/u/dash/EXCELSIOR-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",HERALDO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74fcb59a5c38a6ee59a13aa32585eb02:483a204a347bc45bc3f3ab27874bc564
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/HERALDO-TV-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",IMAGEN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=190e0dedd5c1ed7f5f76515d5f72058a:8e09da444ee448c2a85b8cd24c2eebe0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/13/out/u/dash/IMAGEN-TV-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",ONCE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c70b0d54f58f6dd4e2046bf64084773a:00a3aee5319f20ddfe288240697f559e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/11/out/u/dash/ONCE-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",ONCE NINA Y NINOS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63f768ba20535fdc9716a6419724ff9f:f54e09a043130b1412beb558b4494118
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/13/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TV UNAM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef2bd499aa32fa45be33013d6b035abc:1f0d60ad49ef43bbb03b392e05a37200
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/TV-UNAM-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",UNICABLE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f49c809a99d0454981ae6700d25ba0fb:1999b5fbfd058bc1a2acf3d3cdb7a78d
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/12/out/u/dash/UNICABLE-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",NUESTRO CINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7399e4ec95e1fd86b61da263476c34:06c2a7b4d56dabbf050d51f451dd72ba
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX1/MX-NUESTRO-CINE-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TNT SERIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c7c3c7a05812a5245d64c0eced08a41:e56c4dedfa6c51f617cc7c9d2d61f7a8
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/11/out/u/dash/TNT-SERIES-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CINEMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", STINGRAY MUSIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c7c136bff45eb06ec48c1a179a10c7e:fbd4f57d529aad1076843ebd560872f1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/MUSIC-POP-LATINO-ACTUAL/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SONY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live2-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",A3 CINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c86a2c9cca0c05c04dbc49c06561c033:b6b00e852c2e160bd3ed1f0dd797883a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/A3-CINE-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",ATRES SERIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ec74612833c48e4e2bf730aef0f92a5:bf851c48ef13fde3aa7ce6183fb5f861
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/ATRES-SERIES-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",EUROPA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23ca6a142d580eb99bd14dda4b023b5d:d0534260b536e85d76efe8576afcf473
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/EUROPA-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f667f1e6db8de6ac2ce1b710866aeff:c8ea6e60d50c6fe170e46da019d59910
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/TCM-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",ADULT SWIM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=694fa2e355b31ac2c52d0a56d3d8da59:0d7eff2e4dc61d48489555068b0db46a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/ADULTSWIM-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",BABY TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5e06331cab5a18d87cfd61c024c6ed5:97bef40343b1eb8b57dcb2fde7191e49
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/BABY-TV-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",GOLDEN EDGE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98aa90cb620b972a0d0d66a51cdaca56:6e8bd53378356ed7f5103d91efb5e54e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",GOLDEN MULTIPLEX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",GOLDEN PREMIER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34fa35c8323c11cbb83cb381be55bd64:02ccc6ae07d997bdbd8b97865d69bb35
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/GOLDEN-PREMIER-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TELEHIT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ed36c5f7d0775e21f0748dd17520bc9:654256cc5939f6d502969b4fbbc47286
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/TELEHIT-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SHOPPING
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81a154c749417e9045df2b3dd974e0d9:08d84cb2d8bd21b28b765d4a187f9e13
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/CV-SHOPPING-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",EL FINANCIERO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d3c97fa71d06d0cd4049185c473ec7dd:24da4b34a7ae12920a95ebdccd883e54
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/EL-FINANCIERO-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CINE CANAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e87d24ed7b54576895548ffa65eab1d:1e5d7c9e67248af38e48ec56d2241507
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/CINECANAL-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",FRANCE24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61981531aa7c40ecfd07166f6f87d09b:6b90cb076ce91a29da1e197a8b6995dd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/FRANCE-24-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",TV GALICIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=246d0b7d6918c716c74398718df8b380:0d61192c2a9439439c80e27f9fde622f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/TV-GALICIA-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",NHK WORLD JAPAN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ce0d00cf2a4eb71e1f70f06e2b7d3d4:ceb983f224593c2fbc75a75a6ec92c06
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/NHK-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", CURIOSITY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=310ddeefcec5f96a75faed2a96afd26a:041fe42d066d50d59fc368312647bb2f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/CURIOSITY-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",MARIA VISION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c691321378ea03ffb80eabac9c699a6a:df65710d35c513c00cb3fd32938c274a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/MARIAVISION-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", SKY STINGRAY CLASSICA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb40098bd12c043c65318a85149304fb:6f98301b15ab28fcdc0349e4b789338c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live-ott.izzigo.tv/15/out/u/dash/SKY-STINGRAY-CLASSICA-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="", SKY STINGRAY CONCERT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3c361a0f2a76761e14179c991a369efa:194e5b2c55ab9a77f41ab0907b9c6e27
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live-ott.izzigo.tv/15/out/u/dash/SKY-STINGRAY-CONCERT-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SKY STINGRAY HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=742c4c66cdd4095bbf808a9a0d490301:12907fba3f3dd8a313fe39bbef620c8c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live-ott.izzigo.tv/14/out/u/dash/SKY-STINGRAY-HITS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SKY STINGRAY JUICEBOX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17ccf59ddecccc706335077f17edd5d3:7a11a5d4436eb1056f4d232522c73a56
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live-ott.izzigo.tv/15/out/u/dash/SKY-STINGRAY-JUICEBOX-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",STINGRAY RETRO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbd3f1e5aa77ecc317cfeda963f0956e:95c962250e6dcbfa727d12c4d5d9b1b1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live-ott.izzigo.tv/13/out/u/dash/STINGRAY-RETRO-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=976d703cb95202a808972c722544fae1:562775b170402c6e2309ff69b9e48e82
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",GOLDEN PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3555824ee6a09d671a2362f37f5a39b9:f240e5b5e8a27ca8550f23a553451a90
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",QUIERO TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86e93bd99b1b0550ca60a1516f0c2ded:06835565e588e72d6c60512dff9e24e6
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/13/out/u/dash/QUIERO-TV-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CV SHOPPING
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81a154c749417e9045df2b3dd974e0d9:08d84cb2d8bd21b28b765d4a187f9e13
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/CV-SHOPPING-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",SKY BABY FIRST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=320e1cb23cf15aa8f41a9edd52baa655:63c5e57ae2a2bc7dab3c67cac1a6c956
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/SKY-BABY-FIRST-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",EDYE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6957d1b268de52d70a69ad287960839e:00aeb583afc321e7c75a95b080c70441
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/EDYE-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",BEISBOL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dbf14888bd99a7b01a3c9b0386c29ed:1ee5f6042b292cfb366e5b2ec27ecf22
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/14/out/u/dash/BEISBOL-LATINO-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",BASKET AMERICAS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3377df9a3e3ce7735793541deb49657a:df55b7df0f5d3fdb34ff56977aa7339d
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/11/out/u/dash/BASKET-AMERICAS-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",COMBATV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d82fc67b0ad0eac6a3f5cadc6e515796:c9bb81474744fd82c379427312895636
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://nog-live1-ott.izzigo.tv/15/out/u/dash/COMBATV-HD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CANAL 34 MTY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a378dfe6251e3303c5934e17d7e15af4:5c746844389ac1b698a767c35f0ee4f3
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live-ott.izzigo.tv/out/u/dash/CDMX1/XEFB-CANAL-34-LOCAL-MTY-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CONGRESO DIPUTADOS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=922fef39d0bf506b6c396b203a68f2e6:36217e83831157ee0bb1259653267dbf
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live-ott.izzigo.tv/out/u/dash/CDMX1/CONGRESO-DIPUTADOS-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",CONGRESO SENADORES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a40798b3abd4c1585c22e541cb1b861:96da70a9b8a3d6615da7c11ab757eb03
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live-ott.izzigo.tv/out/u/dash/CDMX1/CONGRESO-SENADORES-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",MAUSSAN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=445987029f68a15d72f749dc6954da1e:b0b4c0681b371950146dbd03ce63b2d7
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live-ott.izzigo.tv/out/u/dash/CDMX1/MAUSSAN-TV-SD/default.mpd
+
+#EXTINF:-1 group-title="IZZY" tvg-id="" tvg-logo="",MX NUESTRO CINE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7399e4ec95e1fd86b61da263476c34:06c2a7b4d56dabbf050d51f451dd72ba
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://aca-live-ott.izzigo.tv/out/u/dash/CDMX1/MX-NUESTRO-CINE-SD/default.mpd
 
 
 
