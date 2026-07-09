@@ -6,13 +6,6 @@
 
 #EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zTm3zQTW/image-2026-06-08-173438636.png" channel-number="" group-title="Cignal", CIGNAL PPV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="" group-title="Cignal", One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -101,15 +94,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="Cignal", Viva Cinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Cignal", Cinema One
 #KODIPROP:inputstreamaddon=inputstream.adaptive
