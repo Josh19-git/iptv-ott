@@ -1129,7 +1129,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5019/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
 
-#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://WORLD TV.pages.dev/images/cnbc.png" , CNBC
+#EXTINF:-1 group-title="WORLD TV" tvg-id="" tvg-logo="https://iyad.click/images/cnbc.png" , CNBC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2351831e4519c8a7204669b56d276258:c01f5966265cfb1fce0ec0ad9a317913
