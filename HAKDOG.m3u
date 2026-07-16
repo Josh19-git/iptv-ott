@@ -151,7 +151,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_tapsports/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
-https://cdnsc02.mediaquest.com.ph/bpk-token/2ab@rc0j20ypihrlt1mfmhx22utyvbwqocxgrm0oobba/bpk-tv/dr_tapedge/default/index.mpd?bkm-query
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_tapedge/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title="Cignal", Knowledge Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
